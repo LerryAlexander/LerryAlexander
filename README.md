@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @LerryAlexander
 - 👀 I’m interested in finding efficient ways to develop software to test softwares 
-- 🌱 I’m currently learning CI/CD more in deep
+- 🌱 I’m currently learning AI Testing more in deep
 - 💞️ I’m looking to collaborate on exciting projects that have an impact in the world.
 - 💬 Ask me about Test automation framework design, tools and techniques (Web, Mobile & API/Microservices)
 - 📫 How to reach me: lerry.ortiz@gmail.com
